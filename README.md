@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pranavsingh7748/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
