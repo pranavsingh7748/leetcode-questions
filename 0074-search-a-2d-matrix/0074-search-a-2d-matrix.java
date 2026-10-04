@@ -4,22 +4,25 @@ class Solution {
             return false;
         }
         
-        int m = matrix.length;
-        int n = matrix[0].length;
+        int rows = matrix.length;
+        int cols = matrix[0].length;
         
-        int low = 0;
-        int high = m * n - 1;
+        int left = 0;
+        int right = rows * cols - 1;
         
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-             int midValue = matrix[mid / n][mid % n];
-            
-            if (midValue == target) {
+        while (left <= right) {
+             int mid = left + (right - left) / 2;
+             int row = mid / cols;
+             int col = mid % cols;
+
+             int midValue = matrix[row][col];
+                        
+             if (midValue == target) {
                 return true;
-            } else if (midValue < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+             } else if (midValue < target) {
+                left = mid + 1;
+             } else {
+                 right = mid - 1;
             }
         }
         
